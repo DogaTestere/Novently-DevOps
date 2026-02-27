@@ -1,0 +1,20 @@
+{
+  "name": "devops",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/DogaTestere/Novently-DevOps#readme",
+  "bugs": {
+    "url": "https://github.com/DogaTestere/Novently-DevOps/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DogaTestere/Novently-DevOps.git"
+  },
+  "license": "ISC",
+  "author": "DogaTestere",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
