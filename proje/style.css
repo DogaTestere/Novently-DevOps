@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #b1a1db;
+}
+
+.bubble {
+    width: 300px;
+    padding: 20px;
+    border-radius: 8px;
+     box-shadow: 0 10px 20px rgba(39, 17, 119, 0.8);
+    background-color: #ffffff;
+    font-family: Arial, sans-serif;
+}
